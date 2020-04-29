@@ -140,6 +140,11 @@ h4 {
 	font-family: 'Montserrat',sans-serif;
 }
 
+p {
+	font-size: 16px;
+	font-family: 'Montserrat',sans-serif;
+}
+
 .columna-imagen-pormayor { /* imagen 1 de "LUGARES IMPERDIBLES DE LA CIUDAD" */
 	background-image: url(../img/pormayor.jpg);
 	height: 400px;
