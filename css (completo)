@@ -141,7 +141,7 @@ h4 {
 }
 
 body p {
-	font-size: 20px;
+	font-size: 16px;
 	font-family: 'Montserrat',sans-serif;
 }
 
